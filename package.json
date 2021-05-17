@@ -18,6 +18,7 @@
     "validation"
   ],
   "main": "lib/index.js",
+  "browser": "dist/csstree.min.js",
   "unpkg": "dist/csstree.min.js",
   "jsdelivr": "dist/csstree.min.js",
   "browser": {
